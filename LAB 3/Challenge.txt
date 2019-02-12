@@ -1,0 +1,22 @@
+<!DOCTYPE html> <html>
+	<head>
+		<title>Lab 2 Challenge</title>
+		
+	</head>
+	<body>
+		<h1>Short brief to what this is</h1>
+
+		<p>Hi, my name is Connor, I'm currently studying at Edinburgh Napier doing Networking with Cyber security, this web page is just an example of my lab 2 challenge in Web Technologies </p> </body>
+		<a href="https://www.napier.ac.uk/courses/browse-interests/computing/cyber-security">My Course Details</a> <br></br>
+		
+		<h1>My 5 Favourite Sites</h1>
+		1.<a href="http://www.HibernatingPlank.com">My Website</a> <br></br>
+		2.<a href="https://www.youtube.com">Youtube</a> <br></br>
+		3.<a href="www.4chan.org/">4Chan Random /b/</a>	<br></br>
+		4.<a href="www.google.co.uk">Google</a>	<br></br>		
+		5.<a href="https://github.com/">GitHub</a> <br></br>
+</html>
+
+		
+	</body>
+</html>
