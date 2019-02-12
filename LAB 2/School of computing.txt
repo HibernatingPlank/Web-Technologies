@@ -1,0 +1,14 @@
+<!DOCTYPE html> <html>
+	<head>
+		<title>School of computing</title>
+		
+		<h1>School of computing</h1>
+		
+	</head>
+	<body>
+	
+		<a href="www.google.co.uk">Web Tech</a> School of Computing Edinburgh Napier University
+
+		
+	</body>
+</html>
